@@ -1,0 +1,111 @@
+Biometric Security
+	Physical Biometric Security
+	Multi-Factor Authentication (MFA)
+Blockchain Security
+	Blockchain data security
+	Blockchain smart contract security
+	Blockchain network security
+	Blockchain identity and access management (IAM)
+	Blockchain forensics
+Cloud Security
+	CASB
+	CSPM
+	CWPP
+	Cloud Identity and Access Management (CIAM)
+	Cloud Security Monitoring
+	Serverless Security
+	Cloud Data Encryption
+AI-Powered Security
+	Behavioral Anomaly Detection
+	User and Entity Behavior Analytics (UEBA)
+Application Security
+	Application Whitelisting
+	Dynamic Application Security Testing (DAST)
+	Static Application Security Testing (SAST)
+	Web Application Firewall (WAF)
+	Application Programming Interface (API) Security
+	Secure Coding Assistant
+Biometric Security
+	Physical Biometric Security
+	Multi-Factor Authentication (MFA)
+Cloud-Native Security
+	Container Security
+File Security
+	File Integrity Monitoring
+Data Security
+	Data Loss Prevention (DLP)
+	Data Protection
+	Data Encryption
+	Data Masking & Tokenization
+	Database Access Monitoring
+Email Security
+	Phishing Simulation
+	Email Gateway/Security
+Endpoint Security
+	Antivirus
+	Endpoint Detection and Response (EDR)
+	eXtended Detection and Response (XDR)
+Functionality Monitoring
+	Application Performance Monitoring 
+Governance Risk & Compliance
+	Auditing and Reporting
+	Compliance and Governance
+	Regulatory Compliance Monitoring
+	Risk Assessment
+	Vulnerability Management
+Incident Response (IR) / Forensics
+	Digital Forensics
+	Incident Detection and Response
+	Incident Response and Forensics
+	Incident Response Orchestration (SOAR)
+ISP (Internet Service Provider) Security
+	BGP Security
+Mobile Security
+	Mobile Device Managemet
+Network Security
+	Firewall
+	Intrusion Detection and Prevention System (IDS/IPS)
+	Network Traffic Analysis
+	DNS Security
+	Network Access Control (NAC)
+	Secure Web Proxy
+	IOT Security
+	Network Detection and Response
+	Network Visibility
+Security Monitoring and Response
+	Security Event Correlation
+	Security Information and Event Management (SIEM)
+	Security Orchestration, Automation, and Response (SOAR)
+Supply Chain Security
+	Vendor Risk Management
+Threat Intelligence (TI)
+	Threat Hunting
+	Threat Intelligence Integration (TIDE)
+User Training and Awareness
+	Security Awareness Training
+	Social Engineering Testing
+Zero Trust Security
+	Identity and Access Management (IAM)
+	Role-Based Access Control (RBAC)
+	Micro Segmentation
+Identity Access & Management
+	Identity and Access Management (IAM)
+	Privileged Access Management (PAM)
+	Multi-Factor Authentication (MFA)
+DevSecOps
+	Secure Development Cycle (DevSecOps)
+	Vulnerability Assessment
+	Patch Management
+Critical Infrastructure Security
+	SCADA System Security
+	Industrial Control System (ICS) Security
+Hardware Security
+	Hardware Security Modules (HSM)
+	Trusted Platform Module (TPM)
+	Physical Tamper Protection
+IoT Security
+	IoT Device Security
+	IoT Network Security
+Cyber Operations Security
+	Configuration Management
+	Backup and Recovery
